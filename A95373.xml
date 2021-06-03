@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tithes proved unlawfull to be paid unto ministers, for, or towards their maintainance both by divine and humane right ...</title>
+            <author>Turner, John.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95373</idno><idno type="EEBO-CITATION">36273553</idno>
+  <idno type="VID">150339</idno>
+  <idno type="EEBO-PROQUEST">2248551591</idno>
+  
+            <idno type="STC">Wing T3325</idno>
+            <idno type="STC">ESTC R42429</idno>
+            <idno type="OCLC">36273553</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A95373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2242:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tithes proved unlawfull to be paid unto ministers, for, or towards their maintainance both by divine and humane right ...</title>
+                  <author>Turner, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 8: John Turner.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tithes --  Early works to 1800.</term>
+               <term type="topical_term">Clergy --  Salaries, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Clergy --  Pensions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:150339:1"/>
+            <head>Tithes proved unlawfull to be paid unto Mini<g ref="char:EOLhyphen"/>sters, for or towards their Maintainance; both by Divine and Humane Right.</head>
+            <head type="sub">
+               <hi>By answering a Letter set forth to the Parishioners of</hi> Wolcom <hi>in</hi> Kent, (here is the Copie of the Letter, <hi>verbatim</hi>) <hi>to perswade them to it.</hi>
+            </head>
+            <p>
+               <hi>Minister.</hi> Concerning the maintainance of the Minister, consider these Propositions.</p>
+            <p>
+               <hi>It is the Law of Christ that the Ministers of the Gospell,
+<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>should live of the Gospell, as the reward of their labour.</hi> Luk. 10.7.</p>
+            <p>
+               <hi>This maintainance of the Minister of the Gospell,
+<note place="margin">
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>is not to be left to the peoples choice, whether they will maintain their Minister or not, but the Magistrate ought to require the people to maintain their Minister, according as God shall prosper them.</hi> Rom. 13.3.4.5.6.7.</p>
+            <p>The reason is; first, because that in the time of the Law,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>there was a cer<g ref="char:EOLhyphen"/>tain maintainance for the Ministers of the Law, and if the people were neg<g ref="char:EOLhyphen"/>ligent therein, the Governours of the people required it in the behalf of the Minister,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> therefore there ought to be a certain maintainance for the Mini<g ref="char:EOLhyphen"/>sters of the Gospell, that the Magistaate may require it,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> for there is no cere<g ref="char:EOLhyphen"/>monie in the certainty of it.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 2 Because ministers are bound to instruct and feed the people Acts 20.28.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> therefore the people are bound to maintain their Minister for by the same reason that the people should be free to the main<g ref="char:EOLhyphen"/>taining of their Minister, the Minister should be left free to feed the people. 3 Because experience teaches us, if men were left to their own liberty, Mi<g ref="char:EOLhyphen"/>nisters should not have wherewith to maintain themselves families, and to give to the poor; as is required 1 Tim. 3.2, 3, 4, 5. for some would give little or nothing through covetousnesse, others, though the Lord were pleased to increase the fruits of the ground, yet the Minister should suffer for their ill husbandry, they will pretend they are behinde hand, when the faults their own, &amp;c. Others would meerly dislike the Minister, that they might allow him no maintainance: The truly considerable are but few in the visible Church, Mat. 7.14.</p>
+            <p>Although tenthes are not required in the Gospell,
+<note place="margin">Pr<gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>a competent and suffi<g ref="char:EOLhyphen"/>cient maintainance is; therefore the Magistrate may require tenthes, as an equall and competent maintainance.</p>
+            <p n="1">1 The reason, it is a most equall way to have every thing in its kinde, ac<g ref="char:EOLhyphen"/>cording as God shall prosper them; as is the Apostles rule, Gal. 6.6. That is,
+<pb facs="tcp:150339:2"/>
+               <pb facs="tcp:150339:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:150339:3"/>
+               <pb n="2" facs="tcp:150339:4"/>he is to make him partakers of parte of his Increase.</p>
+            <p n="2">2 The tenths is the Corne of the Barne, and the abundance of the Wine<g ref="char:EOLhyphen"/>presse, Num. 10.27. that is more or lesse as God shall give increase unto the fruits of the earth, which is the most equall and indifferent way, for then the Minister: as God blesseth them shall partake of their blessings, and if they suffer losse, he likewise beareth the burden with them.</p>
+            <p n="3">3 The tenths being first appointed of God, must needs be an equall way for Ministers and people to live on: 1. Because Gods waies are all equall waies, and I desire to know in what tithes were or can be ceremoniall as they are the maintenance of the Ministers.</p>
+            <p n="4">4 The tenths were bestowed upon the Ministrs by the Parliament, with the voluntary consent of the people as a most equall maintenance, and as long as the Parliament continues it: Ministers have the same right to it, as the people have to their land, and the rest of their corne even the law of the Kingdome.</p>
+            <p>
+               <hi>Prop.</hi> 1. Whereas the Minister said, It is the Law of Christ, that the Mini<g ref="char:EOLhyphen"/>sters of the gospel, should live of the gospel, as reward of their labor, luk. 10.7.</p>
+            <p>I acknowledge it is true, that is the portion, the Lord Jesus hath laid them out in the gospel, for the Maintenance of their Ministery, the free gift of the people set before them, Mat. 10.8. Luk. 10.7. 1 Cor. 9 9. Rom. 15.26. 2 Cor. 9.7, 10. And all other portions, are Idolitrous inventions of covetous or distrustfull men, which like not Christs maintenance for their Ministery, but will make, or cause to be made, an other portion besides Christ, as though the Lord of all the earth had not had wisdome to appiont Sufficient wages for his labourious in his vineyard, Or had bin so negligent, to leave them unprovided for when they had laboured. Therefore flee not from your first foundation, for that is the true portion: and that Minister which is not con<g ref="char:EOLhyphen"/>tent with that portion, is an Idolater, Ephes. 5. coneting that which is not by the lord appointed him, makes and addes a maintenance to himselfe, whereby he breakes the 2. Commandment, Exo. 20.4. and brings all the cur<g ref="char:EOLhyphen"/>ses in Gods Book upon himself, Rev. 18. denies Christs provision (for the maintenance of his Ministers) to be sufficient, and ought not to be permit<g ref="char:EOLhyphen"/>ted a menber of any Church of Christ Ps. 101.34, Jer. 15.17.19. nor yet Com<g ref="char:EOLhyphen"/>municated with, by any that truly obey the Lord Jesus, Ps. 26.45. 2 Cor. 6.17</p>
+            <p>
+               <hi>Pro.</hi> 2 Whereas you say the Ministers maintainance is not left to the peo<g ref="char:EOLhyphen"/>ples choyce, whether they will maintain their minister or not, but the Maje<g ref="char:EOLhyphen"/>strate ought to require the people to maintain him from Rom. 13.4, 5, 6, 7.</p>
+            <p>I answer, You are more desirous of money, then conscionable of the truth; for the first, you alleadge from Luk. 10.7. it is by the free gift of the people; Now you leave that and flee to, Rom. 13.5, 6, 7. contradicting the former for if it be free; as it is, the worldy Majestrates, (which you plead for)
+<pb n="3" facs="tcp:150339:4"/>have nothing to do with it. And you know there were no Christian Ma<g ref="char:EOLhyphen"/>gistrates, that did helpe to maintain, Christs Ministers in all the Apostles time, neither had Christs Ministers any other portion then the peoples free gift, Luk. 10.7. and I marvell Popery should so raign in you in abusing Scrip<g ref="char:EOLhyphen"/>tures as you do, Rom. 13.3, 4, 5.6, 7. Were not all Majestrates then Heathen worshippers of <hi>Diana,</hi> Act. 19.27. and did they forse or appoint mainte<g ref="char:EOLhyphen"/>nance for Christs Ministers; Nay, they persecuted them and Spoiled what they had: By free disposition of the people of the Church provided for them, Heb. 10.34. and doth not that tax binde ministers and people to pay Custome and Tribute to those Heathen Majestrates, not of the Church, Wherefore I pray let not covetousnesse, cause you so to take the Name of God in vaine in abusing Scripture to make a cullour to blindefould well affected people. Thus your Doctrin and Inference being both answered, all your following reasons, which are but to illustrate them, are of no validity for when the foundation of a building is taken away, there will be no remainder left, that needs any pulling downe.</p>
+            <p>
+               <hi>Reason.</hi> 1. And whereas you alleadge, in the time of the Law, there was a certain maintenance for the Ministers of the Law, and if the people were negligent therein, the Governours of the people, requeired it in the behalfe of the Minister; therefore there ought to be a certain maintenance for the Ministers of the the Gospel, that the Majestrate may require it, for there is no ceremonie in the certainty of it.</p>
+            <p>I Answer. In the time of the Law the Chuch was Terestriall, Heb. 12.22. and had earthly power, and was only in Ierusalem and no where else, Act. 17.30. Yet the Majestrate in that time required it not of any but those of the Church which were willing, Psal. 110.3. for in <hi>Hezekiah</hi> his time tenne Tri<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hs were not under his power, and of them hee had no jurisdiction, 2 Chro. 30.10. and many of the <hi>Hittites, Perazites,</hi> and <hi>Girgazites, &amp;c.</hi> Were left in the Land, Ezra 9.1. They brought nothing to offear in Sacrifice, for the Hire of a Whore and price of a Dog they never (throw covetousnesse) put in the Sacrifice of their God. Deut. 23.18 And Christ Jesus when he made his great Spirituall Supper, never forced nor required any thing but of those that made excuse, or refused to come, Luk. 14.24. though hee were angry with them, but refused thier companie at his Spirituall banquet, and when they were out of Canan the Priests in the law, must live by the free gift of the people, or else have nothig and this land is not Teresttiall, Canan,
+<note place="margin">R<gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>and for Celestiall I beleeve you will acknowledge England is not, Threfore of no use but to binldfold people,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> to Satisfie the inordinate desire of covetous Ministers, or Belly-gods of this time, who would be Christs servants,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> but like not his wages. And now Christs Church is a celestiall church,
+<note place="margin">M<gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>with hea<g ref="char:EOLhyphen"/>venly power, and no earthly power, 2 Cor. 10.4. Mat. 26.5. Rev. 13.10.
+<milestone type="tcpmilestone" unit="unspecified" n="15"/> Wher<g ref="char:EOLhyphen"/>fore if you will infer, from the law to the Gospel,
+<milestone type="tcpmilestone" unit="unspecified" n="10"/> as then the portion that
+<pb n="2" facs="tcp:150339:5"/>Christ appointed for his Ministers, was required by the Magistrate of the Church, of the flocke of the same Church, that they might eat of the milk of the same flocke, 1 Cor. 9.7. and not milke others flocks; So now the Deacon or Ruler, who are Magistrates in the Church, may (by their Spirituall power, in this Spirituall Church) require (if the flock be able) maintenance for their Minister, but if the flock be not able, he must worke and maintain himselfe, 1 Cor. 9.12. Act. 20.34. 1 Thes. 2.9. for no good Shepheard shear his Flock in winter, but tarry till they can spare the fleece; and that the burden of it will hurt them if it be not taken from them, and did ever the Jewes goe to other then Church power for their Ministers maintenance, did they goe to worldly power, they were never so beastly, and I am sure tis more basenesse now, Heb. 2.2. for Christs Ministers to run to worldly power (not permitted to have being in Christs Spirituall Kingdome. 1 Cor. 7.23. 1 Cor. 6.12.) for helpe for maintenance for ther Ministers. If an Am<g ref="char:EOLhyphen"/>bassador of a worldly King, should go a begging to other Kingdoms (though friends to the King) for money to bare his charges in his Ambassage (say<g ref="char:EOLhyphen"/>ing, provide better for us, we cannot live on our masters provision) were it not abusing their King, and dealing basely with him, how much wore this? They that like not Christs wages, need not meddle with his morke.</p>
+            <p>
+               <hi>Minist.</hi> And whereas you say, there is no Ceremonie in the certainty of it.</p>
+            <p>I Answer, Tithes a Ceremonie of the Law, Heb. 7.12.13. and therefore and the law of Tithes must needs bee changed, and the Priesthood of the Gospel belonged to another tribe, of which no man gave attendance at the Altar, for our Lord sprang out of Judah, who is made, not after the carnall Commandement, for the law made nothing perfect, but the bringing in of better hope then Tithes or a Leviticall Priesthood was, and the certain<g ref="char:EOLhyphen"/>ty of it was likewise a ceremony, pointing out the certain riches the Lord in his Priesthood should bring (at his comming to be borne in the flesh) un<g ref="char:EOLhyphen"/>to the Soules of his people more then they had in the former age, Iohn 14.26. And the certainty of a better Testament, stablished upon better promi<g ref="char:EOLhyphen"/>ses. Heb. 8.6. and a better Kingdome that cannot be shaken, Heb. 12.28. Therefore taking and paying of Tithes, denies Christ come in the flesh, and the better hope the Gospel affordeth more then the law, Heb. 7.19.</p>
+            <p>Your second Reason is, Because Ministers bee bound to instruct and feed the people, Act. 20.28. Thefore the people are bound to maintain their Mi<g ref="char:EOLhyphen"/>nister, for by the same reason the people should be left free to the mainte<g ref="char:EOLhyphen"/>nance of their Minister, The Minister should be left free to feed the people.</p>
+            <p>I Answer, You see the Minister is left free, how bigge a portion he brings unto them every Sabbath day, So by your own argument, the people ought to be left free how bigge a portion they will contribute or provide, or give unto him; Thus you are forced by Gods over-ruling power to confesse the
+<pb n="5" facs="tcp:150339:5"/>truth (as <hi>Balaam</hi> did) in the striving for Idolatrous maintainance.</p>
+            <p>Your third Reason is, because experience teacheth us,
+<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>if men were left to their own liberties, Ministers should not have enough wherewith to main<g ref="char:EOLhyphen"/>tain themselves families, and to give to the poor as is required; 1 Tim. 2, 3, 4, 5. For some people would give little or nothing through covetousnesse, others though the Lord were pleased to increase the fruits of the ground, yet the Minister should suffer for their ill-husbandry, they will pretend they are be<g ref="char:EOLhyphen"/>hinde hand, when the fault is their own; &amp;c. Others would meerly dislike the Minister, that they might allow him no maintainance; The truly considera<g ref="char:EOLhyphen"/>ble, are but few in the Visible Church, Mat. 7.14.</p>
+            <p>Whereas you say experience teacheth, &amp;c. I answer it is Infidelitie; you dare not trust the Lord of life with your body, whom you say you dare trust with your soul: Surely if he will save the soul, he will not starve the body. Thus wanting faith to believe, you are caried with carnalitie, to condemn the Lord in his provision: If <hi>Abraham</hi> had reasoned thus with flesh and bloud, he had never sacrificed (in his purpose) <hi>Isaac</hi> his son, nor yet been counted the father of the faithfull. Pray cast away carnality, abate a little pompe, and follow the example of those that wandered in Leather rayment, whom the world was not worthy of, Heb. 11.37. and sell not your soul to Satan (as <hi>Balaam</hi> did Numb. 22.) for a little platery pelf.</p>
+            <p n="2">2 And whereas, you alledge you are required to give unto the poor; I marvail you dare abuse the minde of the Holy Ghost so vilely, to get your self mony. Is there any such words in 1 Tim. 3.2, 3, 4, 5. are not the words these, <hi>Given to hospitalitie,</hi> that is a man free from covetousnesse; one that if he have spare will freely let his poor Brethren pertake with him, in that he enjoyeth. I pray what and to whom did <hi>Paul</hi> give, when he was hungry and naked; 2 Cor. 6.4.10. Surely he wanted for himself, and then could not give others; Then cast away pride and covetousnesse, and your eyes will be cleerer to see the true interpretation of the Gospell.</p>
+            <p n="3">3 And whereas you say, some people would give no thing through covetousnesse; I beleeve it is true, if you must needs have a Babylonious Church, of all good and bad together; Rev. 18.4. For in Babell Christs word is of little power or none, (except to condemn.) But in Zion such people are not appointed of God to have being, Psal. 10.7. But carnall Ministers must have carnall maintainance, and carnall company. But such shall never stand excepted before the Lord, neither be his mouth unto his people, because they take not the precious from the vile. Jer. 15.19. Rev. 18 4.</p>
+            <p n="4">4 And whereas you say others would allow them nothing, &amp;c. Neither would they be of his Church, if he were in Christs Church. For he that is upright in his wayes, is an abhomination to the wicked. Prov. 29.27. They are not able to endure there, nor yet long to hear him. Experience teacheth
+<pb n="6" facs="tcp:150339:6"/>the same; where the true Church is they will flee away of themselves, the word of God doth to pierce their very thoughts, Heb. 4.12.</p>
+            <p n="5">5 And whereas you say the truly considerable are, but few in the Visible Church from Math. 7.14.</p>
+            <p>It is true; Therefore not whole Parishes, as you would have it, but if one of a Parish, or two of a bigger company come to Zion, <hi>Ieremies</hi> prophesie is fulfilled, Jer. 3.14. <hi>And the way is narrow, and few finde it, and the Gate strait and few enter, Math.</hi> 7.13. And let therest alone in Babell, till God pull his peculiar thence.</p>
+            <p>And whereas you alledge, although <hi>Tenths</hi> are not required in the Gospel, a competent and sufficient maintainance is: Therefore the Magistrate may require <hi>Tenths,</hi> as an equall and competent maintainance.</p>
+            <p>Thus you confesse, in the Gospell, <hi>Tenths</hi> are not Christs appointed wages for the maintainance of His Ministers; Therefore tenths for the maintainance of Christs Ministers, is not of God, by your own grant: If not of God, then of the Divell. And whosoever receiveth it for the maintainance of his Mini<g ref="char:EOLhyphen"/>stery, receiveth the portion of the Divell, and he that payeth any, payeth the Divels portion, and serveth him as the children of Israel did, Lev. 17.7.</p>
+            <p n="2">2 And whereas you say a competent maintainance is allowed the Minister.</p>
+            <p>I confesse it, but the difference is; whether Chaists appointed portion, is a competent maintainance for His Ministers, or whether the Magestrate can set a more equall one then he hath. I answer; Christs portion in his Gospell is a sufficient maintainance for all His Ministers, and all other portions are une<g ref="char:EOLhyphen"/>quall, Idolatrous, and Rebellious against Christs commandements, Col. 2.21.22. Rev. 22.18.</p>
+            <p n="3">3 And whereas you alleage, Tenths is the equallest portion; I answer, if it be and Christ hath not appointed if (as you affirme) then Christ hath not appointed the equallest portion for his Ministers maintenance, <hi>Then he hath not done well, Then he is a Sinner. Then faith is vaine, and all are dead in their sins that look for Salvation by him:</hi> Thus for mony you fear not to Blaspheme the very Saviour of the world.</p>
+            <p n="4">4 And whereas you alleadg Tenths were bestowed upon the Ministers by the Parliament, with the voluntary consent of the people, as a most equall maintainance, and as long as the Parliament continueth it, Ministers have right unto it, as the people have to their lands, and the rest of their corne, even the law of our Kingdome.</p>
+            <p>I Answer, the Tenths were by parliament and by consent of the people, Established for <hi>Massing</hi> Priests to read <hi>Masse,</hi> Therefore an Idolatrous gift, and Idolatrous establishment, unlawfull in the Giver, unlawfull in the Actors, and therefore remaines to their right haires that gave it, and Parliament, and people ought all to repent of such a cursed Action. And if you alleadge
+<pb n="7" facs="tcp:150339:6"/>
+               <hi>Edward</hi> altered it, I answere, he changed the Idol maintainance from the <hi>Latine Masse Priest,</hi> to the <hi>English Masse Priest,</hi> witnesse his passifying the <hi>Cornish-Men,</hi> and this Parliaments overthrowing the <hi>English Masse</hi> or <hi>Ser<g ref="char:EOLhyphen"/>vice Booke,</hi> and pray tell me whether God Ordained the Parliament, to make lawes for his Ministers Maintenance, Or appointed them to take the Lawes his Son Christ Jesus had made concerning their Maintainance in his Worship, If Parliaments be to appoint it, then all the Primitive age, I mean not the Primitive age of Antichrist) the Ministers of the Gospel had no<g ref="char:EOLhyphen"/>thing appointed them by the Lord Jesus to live by, when they had laboured, which is a shame to affirme; Therefore here what the Prophet <hi>Isaiah</hi> saith, to Gods Law (if you look for Salvation by Jsus Christ) and his testimonie, <hi>if any speak not according to this Word it is because the lightis not in them, and and they shall passe thorow it hardly bestead, and hungery, and that when they shall be hungrey, they shall fret themselves, and Curse their King, and their God and looke upwards, and they shall look unto the earth, and behold, trouble and darknesse, dimnesse of anguish, and they shall be driven to darkesse.</hi>
+            </p>
+            <p>And now you that say, Gods way of provision for his Ministers is not equall, but your way of prouision for them is equall: hearken unto these,</p>
+            <p>
+               <hi>Every true Minister of the Gospel of Christ, is well contented with the wa<g ref="char:EOLhyphen"/>ges Christ hath appointed for his Maintenance in the Ministery,</hi> Phil. 4.11.</p>
+            <p>
+               <hi>Ye therefore (that are the Ministers of the Church of England) are not con<g ref="char:EOLhyphen"/>tented with the wages Christ hath appointed in his Gospel for your Maintenance, Because you are not the true Ministers of Christ.</hi>
+               <note place="margin">Isa</note>
+            </p>
+            <p n="2">2 Those that make a maintenance for the Ministers of the Gospel, other then Christ hath made in his written Word, are Idoliters, under Gods curse, and breakers of the Second commadment, 1 Sam. 15.22. Ephesians. 5. Psalm. 115.8. Revelation. 22.18. Deut. 5.32. col. 2.21. Exod. 20.4, 5.</p>
+            <p>Ye therefore (that are of the church of England are Idolaters, under Gods curse, and breakers of the second commandement.</p>
+            <p>Because ye have made a Maintenance for Ministers, other then christ hath made in his writen Word.</p>
+            <p n="3">3 Those that take or require maintainance (for their Ministery) other then the Lord Christ hath appointed in his Gospell, deny Christ to reigne over them in appointing them wages. Luk. 19.27. Isa. 24.5, 6.</p>
+            <p>Ye therefore (that are Ministers of the Church of England) deny Christ to raign over you, in appointing you your wages.</p>
+            <p>Because you take and require other maintainance (for your Ministery) then Christ hath appointed in his Gospell.</p>
+            <p>To him will the Lord look that is poor, and of a contrite spirit, and trem<g ref="char:EOLhyphen"/>bleth
+<pb n="8" facs="tcp:150339:7"/>at his word. He that killeth an Oxe, is as if he slew a man, he that sa<g ref="char:EOLhyphen"/>crificeth a Lamb, as if he cut a dogs neck, he that offereth an oblation, as if he offered Swines blood: he that burneth incense, as if he blessed an Idoll: yea they have chosen their own wayes, and their soul delighteth in their ab<g ref="char:EOLhyphen"/>hominations.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Now we pray you in Christs stead, be ye reconciled unto God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> For he that gathered much, had nothing over; and he that gathered little had no lack. <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+            </p>
+            <closer>
+               <signed>
+                  <hi>By me</hi> JOHN TVRNER, <hi>Prisoner in Westminster, for maintaining</hi> Christ Jesus <hi>to be alone Law-giver in His Worship.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>DEsiring the learned, who say Christ hath not set Gods form of Wor<g ref="char:EOLhyphen"/>ship in His written word, to endure for ever for their direction, though it be sufficient for His Beloveds directions; To answer me these sixe ensuing questions, which are fit for a childe (well educated) of ten yeares old to know.</p>
+               <p n="1">1 <hi>Whether the Lord</hi> Jesus Christ, <hi>did not set the just form of Gods worship in His written word, to endure for ever unto His Church and people? or not.</hi>
+               </p>
+               <p n="2">2 <hi>Whether the Lord</hi> Jesus <hi>did not give the Apostle</hi> Paul <hi>as much power and authoritie in Ecclesiasticall or Church affaires, as ever he gave any man, or in<g ref="char:EOLhyphen"/>tended any man should have upon Earth in after ages? or not.</hi>
+               </p>
+               <p n="3">3 <hi>Whether every perticular Church of</hi> Christ, <hi>have not power from him (without the help or assistance of any) to punish those that are offenders among them, in Ecclesiasticall affaires? or not.</hi>
+               </p>
+               <p n="4">4 <hi>Whether the meanes</hi> Christ <hi>appointed in His Gospell (and those in the pri<g ref="char:EOLhyphen"/>mitive age layed by) be not sufficient wages for his Ministers to maintain them? or not.</hi>
+               </p>
+               <p n="5">5 <hi>Whether</hi> Christ <hi>were so unkinde when He took His leave of His beloved Spouse, as not to give here power, to make her own houshold-Officers, Servants, or Ministers, which he hath appointed to attend on her? or not.</hi>
+               </p>
+               <p n="6">6 <hi>What weapons</hi> Christ <hi>gave unto His Spouse, and her Officers, or Ministers to make use of in the governing of His Church, or family, in Ecclesiasticall af<g ref="char:EOLhyphen"/>faires?</hi>
+               </p>
+               <closer>
+                  <signed>JOHN TVRNER.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150339:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
